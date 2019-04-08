@@ -1,0 +1,11 @@
+﻿body{
+    margin: 0;
+}
+.tableleft{
+    text-align:right;
+    padding-left:5px;
+    background-color:#f5f5f5;
+}
+.tableleft:hover{
+    background-color: #aaaaaa;
+}
